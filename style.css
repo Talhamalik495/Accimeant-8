@@ -1,0 +1,451 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@700&display=swap');
+
+.ali {
+    text-decoration: underline;
+    text-decoration-color: #47a39e;
+    padding-top: 0px;
+    padding-left: 200px;
+    padding-bottom: 0px;
+    padding-right: 200px;
+    width: 99%;
+    height: 300px;
+
+}
+
+.a {
+    padding-left: 135px;
+    padding-right: 135px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.c {
+    color: #d8752b;
+}
+
+.g {
+    padding-bottom: 1%;
+    padding-top: 1%;
+    justify-content: center;
+    display: flex;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.last {
+    border-left: 1px solid black;
+    height: 30px;
+
+}
+
+.color {
+    background-color: #f9fafb;
+}
+
+.lead {
+    height: 2500;
+    width: 100%;
+    display: flex;
+
+}
+
+.yaya {
+    width: 25%;
+    height: 2300px;
+    float: left;
+    justify-content: left fixed;
+    font-size: medium;
+
+}
+
+.khan {
+    height: 650px;
+    width: 45%;
+    margin-top: 10px;
+    margin-right: 0%;
+    margin-left: 0%;
+    font-size: 40px;
+    font-weight: 400;
+    float: center;
+    justify-content: center fixed;
+
+}
+
+.www {
+    border: 2px solid;
+    height: 1080px;
+    width: 30%;
+    border-radius: 5px;
+    display: inline;
+    float: right;
+    justify-content: right fixed;
+    border-color: #ef9f4c;
+    font-size: 20px;
+    padding-top: 0%;
+
+}
+
+.space {
+    display: flex;
+    justify-content: space-around;
+}
+
+.omair {
+    text-decoration: none;
+    line-height: 5px;
+}
+
+.m {
+    width: 1px;
+    height: 1px;
+}
+
+.j {
+    display: flex;
+}
+
+#hora {
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Noto Nastaliq Urdu', serif;
+}
+
+.anoca {
+    display: flex;
+    font-weight: 400;
+    size: 150px;
+}
+
+
+.backgroundcolor {
+    background-color: #e2eee2;
+    margin-top: 0%;
+    height: 60px;
+
+}
+
+.buttons {
+    background-color: black;
+    color: white;
+    height: 40px;
+    border: 2px;
+    border-radius: 5px;
+    font-size: 20px;
+    padding-left: 25px;
+    margin-top: 30px;
+}
+
+.flex {
+    display: inline;
+    float: left;
+
+}
+
+.balon {
+    display: inline;
+    float: left;
+}
+
+.amna {
+    height: 500px;
+    width: 40%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.single {
+    display: flex;
+    font-size: 20px;
+    margin: 0%;
+    margin-left: 0%
+}
+.zobair{
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mazz{
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.double {
+    display: flex;
+    font-size: 20px;
+
+}
+.mnwar{
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.anwar{
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.three {
+    display: flex;
+    font-size: 20px;
+    margin: 0%;
+
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.asharaf{
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.abid{
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.field {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 0%;
+    width: 30%;
+    height: 900px;
+    padding: 0%;
+    text-align: center;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.width {
+    width: 800px;
+}
+
+.margin {
+    font-size: 30px;
+    text-align: center;
+}
+
+.left {
+    text-align: center;
+    margin-left: 210px;
+}
+
+.display {
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+}
+
+
+.between {
+    height: 550px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.that {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+.nomi {
+    font-weight: bold;
+    font-size: large;
+}
+
+.blog {
+    display: flex;
+    width: 100%;
+    height: 300px;
+}
+
+.liner {
+    display: inline;
+    float: left;
+}
+
+.born {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.flag {
+    margin-right: 50px;
+}
+
+.home {
+    display: flex;
+}
+
+.nawaz {
+    margin-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nolks {
+    margin-left: 345px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.padding {
+    margin-left: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mir {
+    display: flex;
+}
+
+.alyan {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.naeem {
+    margin-right: 50px;
+}
+
+.anas {
+    display: inline;
+    float: left;
+
+}
+
+.hamza {
+    display: flex;
+}
+
+.bilal {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.ahmed {
+    margin-right: 50px;
+}
+
+.malik {
+    display: inline;
+    float: left;
+}
+
+.the {
+    display: flex;
+}
+
+.manege {
+    margin-left: 20px;
+
+}
+
+.marge {
+    margin-left: 600px;
+}
+
+.different {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.amir{
+    margin-right: 5px;
+}
+.amer{
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+.shane{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.shamer{
+    margin-left: 5px;
+    margin-right: 1px;
+}
+.shazaib{
+    margin-left: 0px;
+    margin-right: 1px;
+}
+.lands{
+    margin-left: 1px;
+    margin-right: 100px;
+  
+}
+.app{
+    font-weight: bold;
+    font-size: large;
+}
+.can{
+   text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: small;
+margin-top: 40px;
+}
+.can :link{
+    color: black;
+}
+.can>a{
+    text-decoration: none;
+}
+.fa{
+    border: 1px solid  #1677f0;
+    border-radius: 3px;
+   padding-top: 2px;
+   padding-bottom: 2px;
+   padding-left: 8px;
+   padding-right: 8px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 50px;
+    text-decoration: none;
+}
+.fa-facebook{
+    background-color: #1677f0;
+    color: white;
+}
+.fa{
+    border: 1px solid  #1677f0;
+    border-radius: 3px;
+   padding-top: 2px;
+   padding-bottom: 2px;
+   padding-left: 8px;
+   padding-right: 8px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 50px;
+    text-decoration: none;
+}
+.fa-instagram{
+    background-color:#f5574e;
+    color: white;
+}
+.fa{
+    border: 1px solid  #1677f0;
+    border-radius: 3px;
+   padding-top: 2px;
+   padding-bottom: 2px;
+   padding-left: 8px;
+   padding-right: 8px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 50px;
+    text-decoration: none;
+}
+.fa-whatsapp{
+    background-color:#27cd44;
+    color: white;
+}
